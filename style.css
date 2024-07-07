@@ -1,0 +1,53 @@
+
+.branding{
+    font-size: 17px;
+}
+.showcase {
+    background-image: url('re.jpg');
+    background-size: 1500px 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    padding: 140px 60px;
+   
+    color: #fff;
+    margin-top:10px;
+}
+.showcase h1{
+    font-size: 40px;
+    font-weight: 700px;
+    text-transform: uppercase;
+}
+.showcase hr{
+    width: 100px;
+  
+    border-width: 3px;
+    border-color: #f44336;
+}
+.showcase p{
+    font-size:16px;
+    padding-bottom:20px;
+}
+section {
+    padding: 60px 0;
+}
+.section h2{
+    padding:0;
+    margin:0;
+}
+.section .fa{
+ font-size: 50px;
+}
+.section img{
+    width:100%;
+    height: x; 
+    margin-top: 12px;
+}
+ @media only screen and (max-width:700px){
+    body{
+        margin-top:190px;
+    }
+ }
+.showcase{
+    padding:200px 50px;
+}
